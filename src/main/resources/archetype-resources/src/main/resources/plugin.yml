@@ -1,0 +1,4 @@
+name: ${artifactId}
+version: ${version}
+author: ${developerName}
+main: ${package}.${pluginClassName}
